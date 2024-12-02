@@ -1,3 +1,4 @@
+#incio da codificação da calculadora
 import flet as ft
 from flet import colors
 
